@@ -1,0 +1,234 @@
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@300;400;500;600;700&display=swap');
+
+
+
+.top-icon{
+    width: 100%;
+    height: 70px;
+}
+.nav-bg{
+    background-color: #f8f9fa ;
+    height: 90px;
+ 
+}
+nav ul {
+    margin-left: 240px;
+}
+nav li a{
+    font-size: 24px;
+    font-weight: 500;
+    letter-spacing: 2px;
+    line-height: 30px;
+    font-family: "Josefin Sans", Sans-serif;
+    margin-left: 20px;
+
+}
+.nav-link{
+    color: black;
+}
+.nav-link:hover{
+    color: inherit;
+}
+.gap-short{
+    padding: 0;
+    margin: 0;
+}
+
+h2{
+    font-size: 45px;
+    font-weight: 700;
+    font-family: "Josefin Sans", Sans-serif;
+    margin-bottom: 20px;
+}
+h3{
+    font-size: 20px;
+    font-family: "Josefin Sans", Sans-serif;
+   color: black;
+   font-weight: 700;
+}
+h4{
+    font-size: 36px;
+    font-family: "Josefin Sans", Sans-serif;
+   color: black; 
+   font-weight: 700;
+   margin-bottom: 20px;
+}
+h5{
+    font-size: 24px;
+    font-family: "Josefin Sans", Sans-serif;
+   color: black;
+   font-weight: 700;
+}
+.lorem{
+    font-family: "Josefin Sans", Sans-serif;
+   color: black;
+    font-size: 18px;
+}
+.home-bg{
+    width: 100%;
+    height: 650px;
+}
+.protect-btn{
+    background-color: #EB4559;
+    padding: 10px 25px;
+    color: white;
+    font-family: "Josefin Sans", Sans-serif;
+    font-size: 20px;
+    font-weight: 600;
+    margin: 20px 0;
+    border: 2px solid #EB4559;
+    border-radius: 10px;
+    
+}
+.protect-btn:hover{
+    background-color: white;
+    color: #EB4559;
+    border: 2px solid #EB4559;
+}
+.banner-left{
+    padding-left: 100px;
+    padding-right: 50px;
+    margin: auto;
+}
+.specer{
+    height: 50px;
+}
+.about-left{
+    padding-left: 100px;
+    padding-right: 50px;
+    margin:auto;
+}
+.doctor-img{
+    margin-top: 100px;
+}
+.spread-right{
+    margin: auto;
+    padding-right: 100px;
+    padding-left: 50px;
+}
+.img-protect{
+    height: 150px;
+    width: 150px;
+    margin: auto;
+}
+.card-shaddow{
+    border: none;
+    box-shadow: 10px 10px 15px lightgrey;
+}
+.symptoms{
+    padding-top: 100px;
+    padding-bottom: 90px;
+    padding-left: 100px;
+    padding-right: 50px;
+}
+.symptoms-left{
+    margin: auto;
+}
+.list li{
+    font-family: "Josefin Sans", Sans-serif;
+    font-size: 18px;
+    font-weight: 500;
+}
+
+.prevent-right{
+    margin: auto;
+}
+.prevent-img{
+margin-left: 50px;
+}
+.hand-img{
+    width: 70%;
+    height: 70%;
+    margin: auto;
+    display: block;
+}
+.hand-wash-top{
+    margin-left: 45px;
+    margin-bottom: 50px;
+    margin-top: 50px;
+}
+.hand-wash{
+    margin-left: 65px;
+    margin-right: 50px;
+    padding-bottom: 100px;
+}
+.spread-img-one{
+    width: 30%;
+    height: auto;
+    margin: auto;
+    display: block;
+}
+.spread-img{
+    padding-left: 60px;
+    padding-right: 50px;
+}
+.contact-bg{
+    background-color:#EB4559 ;
+    padding: 60px 0;
+}
+.contact-btn{
+    background-color: #EB4559;
+    color: white;
+    border: 2px solid white;
+    border-radius: 10px;
+    padding: 10px 20px;
+    font-family: "Josefin Sans", Sans-serif;
+    font-size: 20px;
+    font-weight: 600;
+}
+.contact-btn:hover{
+background-color: white;
+color: #EB4559;
+}
+.contact-left{
+    color: white;
+    line-height: 1;
+}
+.contact-left-sec{
+    padding-left: 100px;
+  
+    margin:auto;
+}
+.case-border{
+    border: 4px solid #EB4559;
+   padding-top: 20px;
+   padding-left: 30px;
+   margin-bottom: 50px;
+}
+.curent-number{
+    margin-top: 100px;
+    margin-bottom: 100px;
+}
+.faq-sec{
+    height: 650px;
+}
+.faq-sec-right{
+    margin: auto;
+}
+.accordion-button:not(.collapsed) {
+    
+    background-color: #f8f9fa;
+   
+}
+.accordion-button:focus {
+    z-index: 3;
+    border-color: #EB4559;
+    box-shadow: 0 0 0 0.25rem #EB4559;
+}
+.jayed{
+    color: white;
+    font-size: 20px;
+    font-family: "Josefin Sans", Sans-serif;
+padding-top: 10px;
+    font-weight: 600;
+ }
+footer{
+  height: 50px;
+    background-color:#211b1be6;
+    
+}
+
+.contact-now{
+   margin-top: 50px; 
+   
+}
