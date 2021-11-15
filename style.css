@@ -212,7 +212,7 @@ color: #EB4559;
     width: 100%;
 }
 .accordion-button:not(.collapsed) {
-    
+    color: #EB4559;
     background-color: #f8f9fa;
    
 }
