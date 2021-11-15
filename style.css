@@ -8,6 +8,7 @@
     width: 100%;
     height: 70px;
 }
+
 .nav-bg{
     background-color: #f8f9fa ;
     height: 90px;
@@ -138,8 +139,8 @@ h5{
     padding-left: 50px;
 }
 .hand-img{
-    width: 70%;
-    height: 70%;
+    /* width: 70%;
+    height: 70%; */
     margin: auto;
     display: block;
 }
@@ -198,7 +199,7 @@ color: #EB4559;
 }
 .curent-number{
     margin-top: 100px;
-    margin-bottom: 100px;
+    margin-bottom: 30px;
 }
 .map-img{
     width: 100%;
