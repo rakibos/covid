@@ -1,11 +1,14 @@
 @import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:wght@300;400;500;600;700&display=swap');
 
-
+*{
+    box-sizing: border-box;
+}
 
 .top-icon{
     width: 100%;
     height: 70px;
 }
+
 .nav-bg{
     background-color: #f8f9fa ;
     height: 90px;
@@ -66,7 +69,7 @@ h5{
 }
 .home-bg{
     width: 100%;
-    height: 650px;
+    height: auto;
 }
 .protect-btn{
     background-color: #EB4559;
@@ -85,21 +88,17 @@ h5{
     color: #EB4559;
     border: 2px solid #EB4559;
 }
-.banner-left{
-    padding-left: 100px;
-    padding-right: 50px;
-    margin: auto;
-}
+
 .specer{
     height: 50px;
 }
 .about-left{
-    padding-left: 100px;
-    padding-right: 50px;
+  
     margin:auto;
 }
 .doctor-img{
-    margin-top: 100px;
+    width: 70%;
+ 
 }
 .spread-right{
     margin: auto;
@@ -118,38 +117,41 @@ h5{
 .symptoms{
     padding-top: 100px;
     padding-bottom: 90px;
-    padding-left: 100px;
-    padding-right: 50px;
+    /* padding-left: 100px;
+    padding-right: 50px; */
 }
-.symptoms-left{
+/* .symptoms-left{
     margin: auto;
-}
+} */
 .list li{
     font-family: "Josefin Sans", Sans-serif;
     font-size: 18px;
     font-weight: 500;
 }
-
+.symptoms-img{
+    width: 100%;
+}
 .prevent-right{
     margin: auto;
 }
 .prevent-img{
-margin-left: 50px;
+    width: 100%;
+    padding-left: 50px;
 }
 .hand-img{
-    width: 70%;
-    height: 70%;
+    /* width: 70%;
+    height: 70%; */
     margin: auto;
     display: block;
 }
 .hand-wash-top{
-    margin-left: 45px;
+    /* margin-left: 45px; */
     margin-bottom: 50px;
     margin-top: 50px;
 }
 .hand-wash{
-    margin-left: 65px;
-    margin-right: 50px;
+    /* margin-left: 65px;
+    margin-right: 50px; */
     padding-bottom: 100px;
 }
 .spread-img-one{
@@ -197,16 +199,20 @@ color: #EB4559;
 }
 .curent-number{
     margin-top: 100px;
-    margin-bottom: 100px;
+    margin-bottom: 30px;
 }
-.faq-sec{
-    height: 650px;
+.map-img{
+    width: 100%;
 }
+
 .faq-sec-right{
     margin: auto;
 }
+.faq-img{
+    width: 100%;
+}
 .accordion-button:not(.collapsed) {
-    
+    color: #EB4559;
     background-color: #f8f9fa;
    
 }
@@ -219,7 +225,7 @@ color: #EB4559;
     color: white;
     font-size: 20px;
     font-family: "Josefin Sans", Sans-serif;
-padding-top: 10px;
+    padding-top: 10px;
     font-weight: 600;
  }
 footer{
@@ -227,6 +233,7 @@ footer{
     background-color:#211b1be6;
     
 }
+
 
 .contact-now{
    margin-top: 50px; 
